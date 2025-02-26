@@ -1,6 +1,6 @@
 # Common Configurations
 BASE_DATA_DIR = "data"
-SHOULD_GET_TICKET_HEALTH_SCORE = False
+SHOULD_GET_TICKET_HEALTH_SCORE = True
 SHOULD_GET_PR_HEALTH_SCORE = True
 
 # JIRA Configurations
